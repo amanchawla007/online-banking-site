@@ -1,4 +1,5 @@
 # online-banking-site
+hosted on URL : https://xyz-project1.000webhostapp.com/
  A web based banking system with all essential features and security accompanied by a beautiful and simple website.
 The website is designed in accordance with google material design and resposive web design guidelines to ensure a seamless experience between devices.
 
