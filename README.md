@@ -3,6 +3,15 @@ hosted on URL : https://xyz-project1.000webhostapp.com/
  A web based banking system with all essential features and security accompanied by a beautiful and simple website.
 The website is designed in accordance with google material design and resposive web design guidelines to ensure a seamless experience between devices.
 
+#log in info
+1) for coustomer login :
+   username : name 
+   password : name123
+2) admin login:
+   username :admin
+   password :password123
+                     
+
 A fictional name of "XYZ Bank" has been used only for representative purposes.
 
 # Built with
